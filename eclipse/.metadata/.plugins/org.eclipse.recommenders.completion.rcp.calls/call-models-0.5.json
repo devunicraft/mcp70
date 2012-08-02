@@ -1,0 +1,12 @@
+{
+  "C:\\Program Files\\Java\\jre7\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jre7\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Program Files\\Java\\jre7\\lib\\rt.jar\u0027. Skipped."
+  },
+  "C:\\Users\\Simon\\Desktop\\mcp70\\src\\minecraft": {
+    "location": "C:\\Users\\Simon\\Desktop\\mcp70\\src\\minecraft",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\Simon\\Desktop\\mcp70\\src\\minecraft\u0027. Skipped."
+  }
+}
